@@ -1,0 +1,60 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Fubia</title>
+  <meta name="description" content="Fubia Trivia Game">
+  <meta name="author" content="KaBa">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.0/fullpage.min.css">
+   <link rel="stylesheet" href="assets/styles/custom-background.css">
+</head>
+
+<body>
+    <div id="fullpage">
+        <div class="section">
+            <div class="green-background">
+                <div class="flex-items">
+                    <h1>Fubia</h1>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, cupiditate. Voluptates tenetur facere, corporis quis quod vitae, assumenda cupiditate itaque consequatur, est adipisci illum quidem neque? Dicta labore fugiat laudantium?</p>
+                    <div class="store-links">
+                        <a class="google" href="#"><img src="assets/images/google-play-badge.png" /></a>
+                        <a class="apple" href="#"><img src="assets/images/apple-store-badge.svg" /></a>
+                    </div>
+                </div>
+                <div class="flex-items">
+                    <img src="assets/images/pixel4.svg" />
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="purple-background">
+                <div class="flex-items">
+                    <h1>Fubia</h1>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, cupiditate. Voluptates tenetur facere, corporis quis quod vitae, assumenda cupiditate itaque consequatur, est adipisci illum quidem neque? Dicta labore fugiat laudantium?</p>
+                </div>
+                <div class="flex-items">
+                    <img src="assets/images/pixel4.svg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.0/fullpage.min.js"></script>
+       <script>
+        new fullpage('#fullpage', {
+            //options here
+            autoScrolling:true,
+            scrollHorizontally: true,
+
+            controlArrows: true,
+	        verticalCentered: true,
+            parallax: false,
+	        parallaxOptions: {type: 'reveal', percentage: 62, property: 'translate'},
+            navigationPosition: 'right',
+        });
+    </script>
+</body>
+</html>
