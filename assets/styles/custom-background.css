@@ -202,6 +202,10 @@ body p, h1 {
         height: auto;
         width: 176px;
     }
+
+    #fp-nav ul li a span {
+        background: #f6f6f6;
+    }
 }
 
 @media screen and (min-width: 1201px) {
@@ -259,5 +263,9 @@ body p, h1 {
     .apple img {
         height: auto;
         width: 160px;
+    }
+
+    #fp-nav ul li a span {
+        background: #f6f6f6;
     }
 }
