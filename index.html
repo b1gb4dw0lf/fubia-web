@@ -16,7 +16,7 @@
 <body>
     <div id="fullpage">
         <div class="section">
-            <div class="green-background">
+            <div class="purple-background">
                 <div class="flex-items">
                     <h1>Fubia</h1>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, cupiditate. Voluptates tenetur facere, corporis quis quod vitae, assumenda cupiditate itaque consequatur, est adipisci illum quidem neque? Dicta labore fugiat laudantium?</p>
@@ -26,12 +26,12 @@
                     </div>
                 </div>
                 <div class="flex-items">
-                    <img src="assets/images/pixel4.svg" />
+                    <img src="assets/images/pixel4-intro.svg" />
                 </div>
             </div>
         </div>
         <div class="section">
-            <div class="purple-background">
+            <div class="green-background">
                 <div class="flex-items">
                     <h1>Fubia</h1>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, cupiditate. Voluptates tenetur facere, corporis quis quod vitae, assumenda cupiditate itaque consequatur, est adipisci illum quidem neque? Dicta labore fugiat laudantium?</p>
@@ -46,15 +46,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.0/fullpage.min.js"></script>
        <script>
         new fullpage('#fullpage', {
-            //options here
-            autoScrolling:true,
-            scrollHorizontally: true,
-
-            controlArrows: true,
-	        verticalCentered: true,
-            parallax: false,
-	        parallaxOptions: {type: 'reveal', percentage: 62, property: 'translate'},
-            navigationPosition: 'right',
+            anchors: ['page1', 'page2'],
+            navigationTooltips: ['fullPage', 'Open'],
+            css3: true,
+            scrollingSpeed: 1000,
+            navigation: true,
+            slidesNavigation: true,
+            responsiveHeight: 330,
+            dragAndMove: true,
+            dragAndMoveKey: 'YWx2YXJvdHJpZ28uY29tX0EyMlpISmhaMEZ1WkUxdmRtVT0wWUc=',
+            controlArrows: false
         });
     </script>
 </body>
