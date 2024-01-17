@@ -1,56 +1,72 @@
-Privacy Policy for Fubia
+Privacy Policy for Fubia - Football Trivia Game
 
-Last Updated: 12.01.2023
+Effective Date: 01-18-2024
 
-KaBa Tech ("we," "us," or "our") operates the Fubia mobile application (the "App"). This privacy policy outlines our policies regarding the collection, use, and disclosure of personal information when you use our App, in accordance with Google Play Store requirements.
+KaBa ("we," "us," or "our") is committed to protecting the privacy of its users. This Privacy Policy outlines the information practices for Fubia, a football trivia game, including how we collect, use, share, and safeguard user data.
 
-Information We Collect
+1. Information We Collect
+1.1 Data Collected by Fubia
+Fubia does not collect any personal information from users except for the minimal data required for the football trivia game's functionality.
 
-Personal Information
+1.2 Local Data Storage
+The app may store some data locally on your device to enhance user experience and improve app performance. This data is stored securely on your device and is not transmitted to our servers.
 
-When you use our App, we may collect the following types of personally identifiable information:
+2. Information Sharing
+2.1 Google Play
+Fubia may share non-personal, aggregated, and anonymized data with Google Play for analytics and performance monitoring purposes. This information helps us understand user behavior, improve football trivia questions, and enhance overall user satisfaction.
 
-Account Information: We collect information provided during account creation, specifically email address and username.
-Communication Data: We may process communication data, including any communication you send to us.
-Profile Data: This includes your username, in-game achievements, and other profile-related information.
-Device Information: We collect information about the device you use to access the App, such as device type, operating system, and unique device identifiers.
-Usage Data
+2.2 Google Play Game Services
+Fubia utilizes Google Play Game Services, including Google Firebase, for certain features within the football trivia game. The use of Google Play Game Services is subject to Google's privacy policy, and KaBa does not control the data collected by Google Firebase.
 
-We automatically collect information on how you interact with the App:
+If a user's Google Play Game Profile is public, their progress may be visible to others. Otherwise, progress information is shared only with their friends as part of Google Play Game Services' leaderboard feature.
 
-Game Progress: We collect data related to your progress in the game, such as scores, currency, bonuses and levels completed.
-Analytics: We use third-party analytics tools to collect and analyze usage patterns, including frequency of use, features accessed, and performance metrics. This helps us improve the App's functionality and user experience.
-Payment Information
+2.3 Google Analytics (Google Firebase)
+Fubia uses Google Analytics as part of Google Firebase to collect and analyze non-personal information about how users interact with the football trivia game. This includes information about app usage, user interactions, and device information. The data collected by Google Analytics is used to improve app performance and enhance the football trivia gaming experience.
 
-If you make in-app purchases, your payment information is processed directly by the app store and not collected or stored by us.
+2.4 Google Crashlytics (Google Firebase)
+Fubia uses Google Crashlytics as part of Google Firebase to collect data about app crashes and errors. This information is used for diagnostic and debugging purposes to improve the stability and performance of the football trivia game.
 
-How We Use Your Information
+2.5 Google AdMob (Google Firebase)
+Fubia incorporates Google AdMob as part of Google Firebase for displaying advertisements in the football trivia game. AdMob may collect non-personal information to serve targeted ads. Users can customize ad preferences through their device settings.
 
-We use the collected information for the following purposes:
+3. User Controls
+3.1 Opt-Out
+Please note that Fubia does not currently provide an opt-out option for users to choose whether or not to share non-personal data with Google Play.
 
-Service Provision: To provide and maintain the App, including user accounts, customer support, and personalized features.
-Analytics: To analyze user behavior and improve our App's functionality, content, and user experience.
-Communication: To communicate with you regarding updates, and important announcements related to the App.
-Data Sharing and Disclosure
+3.2 Local Data Management
+Users can manage and delete locally stored data through the football trivia game settings on their device.
 
-We do not sell or rent your personal information. However, we may share your information in the following circumstances:
+4. Security
+Fubia prioritizes the security of user data and employs reasonable measures to protect it from unauthorized access, disclosure, alteration, and destruction. Our security practices include encryption, access controls, and regular security assessments. However, it's important to note that no data transmission or storage system is completely invulnerable. While Fubia takes proactive steps to secure your information, we cannot guarantee the absolute security of data.
 
-With Your Consent: We may share your information if you have given us explicit consent to do so.
-Service Providers: We may engage third-party companies and individuals to facilitate the App's features and performance, and these service providers may have access to your personal information.
-Your Control over Data Collection
+We encourage users to stay informed about security best practices, such as using strong, unique passwords and keeping their devices updated with the latest security patches.
 
-Users have the option to exercise control over the information collected by adjusting their device settings or by contacting us directly. However, it is imperative to note that declining to consent to this data control statement may impede the full enjoyment of the App. Given its integration with the Google Play Store, acceptance of this statement is deemed necessary for seamless functionality.
+In the event of any security incidents that may compromise user data, Fubia commits to promptly investigate the matter, take appropriate remedial actions, and inform affected users in accordance with applicable laws and regulations.
 
-Data Security
+5. App Permissions
+5.1 Android
+On Android devices, Fubia may request certain app permissions to provide users with the best experience while playing the football trivia game. These permissions may include features required for the proper functioning of the app. Users can manage app permissions through their device settings.
 
-We implement reasonable security measures to protect your personal information, but no method of transmission over the internet or electronic storage is 100% secure.
+5.2 iOS
+On iOS devices, Fubia may request certain app permissions to provide users with the best experience while playing the football trivia game. These permissions may include features required for the proper functioning of the app. Users can manage app permissions through their device settings.
 
-Changes to This Privacy Policy
+6. Data Access by Third Parties
+6.1 Google Play Game Services
+Apart from Google and its associated services, Fubia does not provide user data access to third parties. Users' progress information may be visible to others if their Google Play Game Profile is public or shared with friends as part of Google Play Game Services' leaderboard feature.
 
-We may update our Privacy Policy from time to time. Any changes will be effective when posted on this page. We will notify you of any significant changes via email or within the App.
+7. Data Transfer
+7.1 Data Transfer to Google Services
+Fubia may transfer non-personal data collected through Google services to servers located in different regions for the purpose of analytics and performance monitoring. These transfers are conducted in accordance with applicable data protection laws, and reasonable measures are taken to secure data during transmission.
 
-Contact Us
+8. GDPR Compliance
+Fubia is committed to complying with the General Data Protection Regulation (GDPR) and other applicable data protection laws. Users in the European Union have the right to access their data held by Google Play Game Services through the following link: https://play.google.com/games/profile.
 
-If you have any questions or concerns about our Privacy Policy, please contact us.
+9. Updates to the Privacy Policy
+We reserve the right to update this Privacy Policy at any time. Users will be notified of any material changes through the app or other means.
 
-By using the App, you agree to the collection and use of information in accordance with this policy.
+10. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us.
+
+By using Fubia, you agree to the terms outlined in this Privacy Policy.
+
+Thank you for trusting KaBa.
